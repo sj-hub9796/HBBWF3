@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "hbbwf3",
+  "version": "1.0.0",
+  "name": "HBBWF3",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/hbbwf3/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.sjhub.hbbwf3.client.Hbbwf3Client"
+    ],
+    "main": [
+      "net.sjhub.hbbwf3.Hbbwf3"
+    ]
+  },
+  "mixins": [
+    "hbbwf3.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.7",
+    "fabric": "*",
+    "minecraft": "1.21.1"
+  }
+}

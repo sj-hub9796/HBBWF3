@@ -1,0 +1,2 @@
+v1	named	intermediary
+FIELD	net/sjhub/hbbwf3/mixin/BossBarRenderMixin	Lnet/minecraft/client/MinecraftClient;	client	field_2058
