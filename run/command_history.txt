@@ -1,4 +1,0 @@
-/summon minecraft:wither
-/difficulty easy
-/summon minecraft:witch
-/summon minecraft:wither
